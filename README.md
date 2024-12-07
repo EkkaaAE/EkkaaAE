@@ -4,6 +4,12 @@
 <h1 align="center">Hi 👋! I'm Eka Prasetiawan</h1>
 <h3 align="center">As a 5th semester student majoring in Informatics Engineering at Balitar Islamic University, I have a great interest in technology and always want to follow the latest world trends. I also play social media such as Instagram and LinkedIn. Let's be friends!</h3>
 
+<p align="center">
+  <a style="text-decoration: none;" href="https://ekkaaae.github.io/portofolio/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-PORTOFOLIO%20-BF00FF?style=flat&logoColor=white&link=https://ekkaaae.github.io/portofolio/"/>
+  </a>
+</p>
+
 ---
 
 <!-- ## 🌐 Socials: -->
