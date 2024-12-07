@@ -10,8 +10,8 @@
 
 <h3 align="center">🚀 Connect with me:</h3>
 <p align="center">
-  <a style="text-decoration: none;" href="https://www.linkedin.com/in/ekaprasid/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&link=https://instagram.com/ekkaa_blt/"/>
+  <a style="text-decoration: none;" href="https://www.instagram.com/ekkaa_blt/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-ekkaa__blt%20-DD2A7B?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/ekkaa_blt"/>
   </a>
   <a style="text-decoration: none;" href="https://www.linkedin.com/in/ekaprasid/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-Eka%20Prasetiawan%20-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/ekaprasid"/>
