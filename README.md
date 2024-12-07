@@ -1,8 +1,25 @@
-# Hi 👋! I'm Eka Pras
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=EkkaaAE&label=Profile%20views&color=blueviolet&style=flat" alt="EkkaaAE" /> </p>
 
-As a 5th semester student majoring in Informatics Engineering at Balitar Islamic University, I have a great interest in technology and always want to follow the latest world trends. I also play social media such as Instagram, LinkedIn, TikTok. Let's be friends!
+
+<h1 align="center">Hi 👋! I'm Eka Prasetiawan</h1>
+<h3 align="center">As a 5th semester student majoring in Informatics Engineering at Balitar Islamic University, I have a great interest in technology and always want to follow the latest world trends. I also play social media such as Instagram, LinkedIn, TikTok. Let's be friends!</h3>
+
+---
 
 <!-- ## 🌐 Socials: -->
+
+<h3 align="center">🚀 Connect with me:</h3>
+<p align="center">
+  <a style="text-decoration: none;" href="https://www.linkedin.com/in/ekaprasid/" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&link=https://instagram.com/ekkaa_blt/"/>
+  </a>
+  <a style="text-decoration: none;" href="https://www.linkedin.com/in/ekaprasid/" target="blank">
+    <img align="center" src="https://img.shields.io/badge/-Aldy%20Faizal%20-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/ekaprasid"/>
+  </a>
+  <a style="text-decoration: none;" href="mailto:ekkaapras@gmail.com">
+    <img align="center" src="https://img.shields.io/badge/-ekkaapras@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"/>
+  </a>
+</p>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ekkaa_blt/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ekaprasid/)
 
@@ -22,7 +39,17 @@ As a 5th semester student majoring in Informatics Engineering at Balitar Islamic
   </picture>
 <!-- <h4> _generated with [Platane/snk](https://platane.me/snk/)_</h4> -->
 </div>
-<!-- <br> -->
-<!-- <div align="left"> -->
-<!--   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fatkhurrhn&radius=16&theme=react&area=true&order=5" height="auto" alt="by fatkhurhhn"/> -->
-  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=fatkhurrhn&theme=github-compact&radius=16" height="auto" alt="by fatkhurhhn"/> -->
+
+---
+
+<div align="center">
+<!-- Dark -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EkkaaAE&radius=16&theme=react&area=true&order=5" height="auto" alt="by fatkhurhhn"/>
+
+<!-- White -->
+  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=EkkaaAE&theme=github-compact&radius=16" height="auto" alt="by fatkhurhhn"/> -->
+</div>
+
+---
+
+<h4 align="center">Thanks you for visiting, and happy coding! 😁</h4>
